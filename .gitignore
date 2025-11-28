@@ -1,0 +1,10 @@
+__pycache__/
+.pytest_cache/
+
+
+*.o
+*.so
+*.dylib
+*.dll
+
+.DS_Store
